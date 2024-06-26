@@ -1,0 +1,9 @@
+Danh sách hàng hóa trong kho:
+
+1	Váy cho cún cute	PHỤ KIỆN	35000	10	20	10	2024-06-23	
+2	Áo cho mèo	PHỤ KIỆN	15000	150	170	20	2024-06-15	
+3	Thức Ăn Hạt 200g	THỨC ĂN	25000	7	107	100	2024-06-15	
+4	CỎ MÈO	PHỤ KIỆN	3000	2	12	10	2024-06-25	
+5	Pate gà	THỨC ĂN	50000	13	150	137	2024-06-23	
+6	Hạt cho mèo	THỨC ĂN	35000	170	300	130	2024-06-25	
+7	Cát mèo	PHỤ KIỆN	45000	20	90	2024-06-19	30	
